@@ -1,3 +1,3 @@
 main file
 
-the line added with feature1 and will be commited
+the inital line that will be changed
