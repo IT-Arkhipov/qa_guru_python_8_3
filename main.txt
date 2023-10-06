@@ -1,3 +1,3 @@
 main file
 
-the feature2 was added
+the line was changed by feature1 and feature2
